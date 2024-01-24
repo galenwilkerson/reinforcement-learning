@@ -48,10 +48,4 @@ Navigate to the desired notebook in the Jupyter Notebook interface and run the c
 
 ## Acknowledgments
 
-- Mention any collaborators, data sources, or inspirational projects here.
-- If this work is part of a larger study or is based on a paper, include references or links to those resources.
-
-## Citation
-
-If you use the code or concepts from this repository in your research, please consider citing the relevant paper or sources.
-
+Adapted from tutorial:  http://amunategui.github.io/reinforcement-learning/
