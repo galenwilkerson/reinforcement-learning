@@ -43,8 +43,6 @@ Navigate to the desired notebook in the Jupyter Notebook interface and run the c
 ## Files in the Repository
 
 - `RBN.ipynb`: An interactive Jupyter Notebook that provides a detailed exploration of Random Boolean Networks using Reinforcement Learning techniques.
-- `requirements.txt`: A text file listing the Python libraries needed to run the notebooks.
-- Additional files and directories as relevant to the project.
 
 ## Acknowledgments
 
