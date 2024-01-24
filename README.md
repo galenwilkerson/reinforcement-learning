@@ -5,10 +5,6 @@ Galen Wilkerson
 
 From Tutorial: http://amunategui.github.io/reinforcement-learning/
 
-
-Certainly! Here's a `README.md` template for your GitHub repository focused on Reinforcement Learning. This template includes sections for an introduction, installation instructions, usage, file descriptions, and acknowledgments. You can customize it as needed:
-
-```markdown
 # Reinforcement Learning in Random Boolean Networks
 
 This repository contains resources and code for exploring Reinforcement Learning (RL) within the context of Random Boolean Networks (RBNs). RBNs, known for their applicability in modeling complex systems, are used here as a framework to study and implement reinforcement learning algorithms.
@@ -63,9 +59,3 @@ Navigate to the desired notebook in the Jupyter Notebook interface and run the c
 
 If you use the code or concepts from this repository in your research, please consider citing the relevant paper or sources.
 
----
-
-Feel free to adjust and expand upon this README to suit the specific needs of your project.
-```
-
-This `README.md` provides a comprehensive overview of the repository and clear instructions for installation and usage. Replace the placeholders and add any additional information as necessary to better describe and guide users through your project.
