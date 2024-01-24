@@ -1,11 +1,7 @@
-
-Reinforcement Learning
-
-Galen Wilkerson
-
-From Tutorial: http://amunategui.github.io/reinforcement-learning/
-
 # Reinforcement Learning in Random Boolean Networks
+
+Adapted from tutorial:  http://amunategui.github.io/reinforcement-learning/
+
 
 This repository contains resources and code for exploring Reinforcement Learning (RL) within the context of Random Boolean Networks (RBNs). RBNs, known for their applicability in modeling complex systems, are used here as a framework to study and implement reinforcement learning algorithms.
 
