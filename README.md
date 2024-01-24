@@ -25,10 +25,7 @@ To run the code in this repository, you will need Python and some specific libra
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
-5. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
+
 
 ## Usage
 
