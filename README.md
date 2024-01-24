@@ -4,3 +4,68 @@ Reinforcement Learning
 Galen Wilkerson
 
 From Tutorial: http://amunategui.github.io/reinforcement-learning/
+
+
+Certainly! Here's a `README.md` template for your GitHub repository focused on Reinforcement Learning. This template includes sections for an introduction, installation instructions, usage, file descriptions, and acknowledgments. You can customize it as needed:
+
+```markdown
+# Reinforcement Learning in Random Boolean Networks
+
+This repository contains resources and code for exploring Reinforcement Learning (RL) within the context of Random Boolean Networks (RBNs). RBNs, known for their applicability in modeling complex systems, are used here as a framework to study and implement reinforcement learning algorithms.
+
+## Introduction
+
+Random Boolean Networks (RBNs) are a simplified model of genetic regulatory networks. In this repository, we delve into the application of Reinforcement Learning (RL) techniques within RBNs. The goal is to explore how RL can be leveraged to understand and predict the behavior of these networks.
+
+## Installation
+
+To run the code in this repository, you will need Python and some specific libraries. The primary dependencies are Jupyter Notebooks for interactive coding and visualization, along with libraries like NumPy for numerical operations.
+
+### Steps:
+1. Ensure you have Python installed. We recommend using Python 3.6 or above.
+2. Clone this repository:
+   ```
+   git clone https://github.com/galenwilkerson/Random-Boolean-Networks.git
+   ```
+3. Navigate to the cloned directory.
+4. It's recommended to create a virtual environment:
+   ```
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+5. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+Once you have installed the required dependencies, you can start Jupyter Notebook and explore the `.ipynb` files.
+
+```
+jupyter notebook
+```
+
+Navigate to the desired notebook in the Jupyter Notebook interface and run the cells to see the results.
+
+## Files in the Repository
+
+- `RBN.ipynb`: An interactive Jupyter Notebook that provides a detailed exploration of Random Boolean Networks using Reinforcement Learning techniques.
+- `requirements.txt`: A text file listing the Python libraries needed to run the notebooks.
+- Additional files and directories as relevant to the project.
+
+## Acknowledgments
+
+- Mention any collaborators, data sources, or inspirational projects here.
+- If this work is part of a larger study or is based on a paper, include references or links to those resources.
+
+## Citation
+
+If you use the code or concepts from this repository in your research, please consider citing the relevant paper or sources.
+
+---
+
+Feel free to adjust and expand upon this README to suit the specific needs of your project.
+```
+
+This `README.md` provides a comprehensive overview of the repository and clear instructions for installation and usage. Replace the placeholders and add any additional information as necessary to better describe and guide users through your project.
