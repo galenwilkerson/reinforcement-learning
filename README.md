@@ -1,6 +1,3 @@
-Absolutely, here's the revised `README.md` without any mention of Random Boolean Networks and with the correct repository URL:
-
-```markdown
 # Reinforcement Learning Tutorial
 
 This repository contains a Jupyter Notebook adapted from a tutorial found at [amunategui.github.io/reinforcement-learning](http://amunategui.github.io/reinforcement-learning/), offering an introductory exploration into Reinforcement Learning (RL).
@@ -39,6 +36,3 @@ Open the notebook in the Jupyter interface and run the cells to understand the p
 ## Acknowledgments
 
 This notebook is adapted from a tutorial by [amunategui.github.io](http://amunategui.github.io/reinforcement-learning/).
-```
-
-This version of the `README.md` is focused on the Reinforcement Learning notebook and omits any mention of Random Boolean Networks, ensuring it aligns with the content of your repository.
